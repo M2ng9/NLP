@@ -1,0 +1,1 @@
+When the texts of a corpus are divided into several categories

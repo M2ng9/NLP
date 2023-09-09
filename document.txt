@@ -1,0 +1,1 @@
+Another possible problem you might have encountered when accessing a text file is the newline conventions, which are different for different operating systems. The built-in open() function has a second parameter for controlling how the file is opened:

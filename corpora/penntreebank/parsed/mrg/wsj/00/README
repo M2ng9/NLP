@@ -138,7 +138,7 @@ about 5%.  In particular:
 
   -- "%" in phrases like "a 5 % increase in sales" is bracketed in an ADJP
 	but still generally tagged NN.  Currency units such as "yen" or
-	"mark" (or $ ... *U*) may also play a similar role.
+	"mark" (or $ *U*) may also play a similar role.
 
   -- a VBG or VBN can function as the head of an ADJP that is acting as a
 	pre-head NP modifier (in which case it may be construed as a
